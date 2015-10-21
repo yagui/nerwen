@@ -1,0 +1,6 @@
+[submodule "P3Steel"]
+	path = P3Steel
+	url = git@github.com:yagui/P3Steel.git
+[submodule "Marlin"]
+	path = Marlin
+	url = git@github.com:yagui/Marlin.git
